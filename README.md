@@ -1,7 +1,6 @@
-# Deep-CNN-Autoencoder---Image-Compression
+# Deep-CNN-Autoencoder---Image-Compression-Denoising Image
 The repository is structured to provide an overview of the model architecture, training processes, and results, making it a valuable resource for those interested in learning and experimenting with deep learning techniques.
-
-# Deep CNN Autoencoder - Image Compression - Denoising Image
+<img width="982" alt="image" src="https://github.com/user-attachments/assets/9a6ae6f1-18f1-4c5f-b58f-11635b80292a">
 
 # Project Information
 
