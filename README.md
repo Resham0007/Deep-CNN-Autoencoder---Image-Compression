@@ -5,6 +5,8 @@ The repository is structured to provide an overview of the model architecture, t
 # Project Information
 
 An autoencoder is an unsupervised learning technique for neural networks that learns efficient data representations (encoding) by training the network to ignore signal “noise.” Autoencoders can be used for image denoising, image compression, and, in some cases, even generation of image data.
+<img width="997" alt="image" src="https://github.com/user-attachments/assets/7c8c6c68-3366-4252-a30e-30868b6ca788">
+
 
 ## Flow of Autoencoder
 
